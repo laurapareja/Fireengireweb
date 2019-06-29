@@ -1,5 +1,6 @@
 # Fireengireweb
 Repaso intermedio Adalab Modulo 1
+
 El servicio municipal de bomberos ya no puede soportar más el desprecio de Pantone al no seleccionar su rojo corporativo para su Color of the year.
 Para 2020 no están dispuestos a mandar la enésima solicitud y el ayuntamiento ha aprobado el salto digital del servicio de bomberos: van a lanzar una campaña online. ¡A tope!
 El primer paso de esta campaña es dar a conocer a la ciudadanía el rojo más perfecto que existe, que además es el color corporativo del orgulloso servicio de bomberos: Fire Red Engine.
